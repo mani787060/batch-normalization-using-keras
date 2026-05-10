@@ -46,4 +46,5 @@ To test the effectiveness of this technique, we utilize a **Concentric Circle Da
    pip install tensorflow scikit-learn matplotlib numpy
 
 3. **Run the Implementation:**
+
    Open `batch normalization using keras.ipynb` to see the comparison between standard training and Batch-Normalized training.   
