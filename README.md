@@ -354,14 +354,4 @@ This project is part of my ongoing journey of learning Deep Learning concepts th
 
 ---
 
-## 👨‍💻 Author
-
-**Mani Ratan**
-
-- GitHub: [@mani787060](https://github.com/mani787060)
-- LinkedIn: [Mani Ratan](https://www.linkedin.com/in/mani-ratan-159963289/)
-- Kaggle: [@mani787060](https://www.kaggle.com/mani787060)
-
-If you find this project useful for learning Deep Learning and Keras, feel free to explore the notebook and share your feedback.
-
 ⭐ If you find this repository helpful, consider giving it a star!
